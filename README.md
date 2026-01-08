@@ -1,4 +1,6 @@
 # Nexus-Webapp
+<img width="1864" height="912" alt="image" src="https://github.com/user-attachments/assets/e5ca2faf-cec6-4a67-900c-5e0e36d1a2a0" />
+
 
 Full-stack notes application built with **Next.js (client)** and **Node/Express (server)** using **MongoDB** for persistence.
 
