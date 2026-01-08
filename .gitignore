@@ -1,0 +1,33 @@
+# Node and Next.js
+node_modules/
+.next/
+dist/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Build outputs
+build/
+coverage/
+
+# Misc
+.DS_Store
+coverage/
+
+# OneDrive
+*.lnk
